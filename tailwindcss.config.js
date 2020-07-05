@@ -18,4 +18,5 @@ module.exports = {
       layout: 'sidebar',
     }),
   ],
+  purge: false,
 };
